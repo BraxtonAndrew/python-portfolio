@@ -1,0 +1,13 @@
+# Large data file (exceeds GitHub's 100 MB limit); see oil-price-analyzer/README.md
+oildata.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
